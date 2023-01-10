@@ -1,0 +1,17 @@
+{
+  "name": "ncircle",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "akshay sathe",
+  "license": "ISC",
+  "dependencies": {
+    "@types/forge-viewer": "^7.69.5",
+    "express": "^4.18.2",
+    "forge-apis": "^0.9.4"
+  }
+}
